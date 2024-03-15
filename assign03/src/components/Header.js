@@ -10,12 +10,12 @@ const Header = (props) => {
   )
 }
 
-Header.defaultProps ={
-    title: 'N/A',
-}
+// Header.defaultProps ={
+//     title: 'N/A',
+// }
 
-Header.propTypes = {
-    title: PropTypes.string.isRequired,
-}
+// Header.propTypes = {
+//     title: PropTypes.string.isRequired,
+// }
 
 export default Header
