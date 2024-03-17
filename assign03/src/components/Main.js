@@ -34,12 +34,21 @@ const Main = () => {
         <strong>Front End</strong>: Learning front-end development<br></br>
         <strong>Tools and Libraries</strong>: Standard Template Library (STL)<br></br>
         <h3>Soft Skills<br></br></h3>
-                    <ul>
-                        <li>Strong problem-solving abilities<br></br></li>
-                        <li>Effective communication and collaboration<br></br></li>
-                        <li>Detail-oriented and highly organized<br></br></li>
-                        <li>Adaptable and quick learner<br></br></li>
-                    </ul>
+        <ul>
+          <li>Strong problem-solving abilities<br></br></li>
+          <li>Effective communication and collaboration<br></br></li>
+          <li>Detail-oriented and highly organized<br></br></li>
+          <li>Adaptable and quick learner<br></br></li>
+        </ul>
+        <h3>Current Projects<br></br></h3>
+        <ul>
+          <li>I am currently working in a team of four on a project for this course. It is called PcBee, a pc 
+            parts search site which incorporates both ChatGPT and eBay API's.<br></br><a href="https://github.com/Team-Lorem-Ipsum/PCBee">PcBee</a></li>
+          <li>I have also been working on and off on a personal multiplayer platformer game which I am building 
+            from scratch. It has yet to be uploaded to github but here is a screenshot of it:<br></br>
+            <img src={require('./Images/PlatformerPrototypeScreenShot.png')} height="40%" width="60%"></img></li>
+        </ul>
+
       </div>
       <div id="education">
         <h1>What have I learned?</h1>
@@ -48,7 +57,7 @@ const Main = () => {
           I'm currently studying at <a href="https://langara.ca/">Langara College</a> where I am a second year computer science student. Before I 
           started studying computer science I took a year of applied science and engineering, so not only does my coursework include data structures and algorithms, 
           computer languages, and programming; but also includes physics, mathematics, and business and project management. I expected to transfer a university after 
-          my secind year is over and graduate in 2026. 
+          my second year is over and graduate in 2026. 
         </p>
       </div>
         
