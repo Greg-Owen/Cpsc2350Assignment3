@@ -25,8 +25,9 @@ header{
   background-repeat: no-repeat;
 }
 header h1{
-  float: right;
+  /* float: right; */
   padding-right: 8%;
+  margin: 0;
 }
 
 nav{
@@ -107,7 +108,7 @@ nav ul{
   flex-direction: row;
   text-align: center;
   font-size: 1.5em;
-  margin:1%;
+  margin: 0;
 }
 nav ul li{
   padding:0 2% 0 2%;
