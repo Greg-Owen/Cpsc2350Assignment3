@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Greg-Owen.github.io/assign03",
+  "homepage": "https://Greg-Owen.github.io/Cpsc2350Assignment3",
   "name": "assign03",
   "version": "0.1.0",
   "private": true,
@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build --output-path=/github/workspace/docs",
+    "build": "react-scripts build --output-path=../docs",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
