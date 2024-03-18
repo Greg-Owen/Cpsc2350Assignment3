@@ -13,4 +13,5 @@ The following changes made to package.json were attempts to resolve this error:<
 "deploy": "gh-pages -d ../docs"<br></br>
 "build": "react-scripts build --source-path=./docs --output-path=../docs",<br></br>
 "build": "react-scripts build --output-path=/github/workspace/docs",<br></br>
+<h3>Update: Temporary fix</h3><br></br> I made a separate repository where you can view the <a href="https://greg-owen.github.io/assign03/">website.</a><br></br>
 3. The technology stack used to create this website was react.js, a link to a react.js tutorial was included in the personal website. 
